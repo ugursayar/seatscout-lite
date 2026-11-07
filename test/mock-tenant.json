@@ -1,0 +1,1585 @@
+{
+  "asOf": "2026-06-26T17:18:00Z",
+  "organization": {
+    "displayName": "Northwind Trading Co.",
+    "id": "northwind-tenant"
+  },
+  "subscribedSkus": [
+    {
+      "skuId": "SPE_E5",
+      "skuPartNumber": "SPE_E5",
+      "prepaidUnits": {
+        "enabled": 50
+      },
+      "consumedUnits": 47
+    },
+    {
+      "skuId": "SPE_E3",
+      "skuPartNumber": "SPE_E3",
+      "prepaidUnits": {
+        "enabled": 40
+      },
+      "consumedUnits": 38
+    },
+    {
+      "skuId": "SPB",
+      "skuPartNumber": "SPB",
+      "prepaidUnits": {
+        "enabled": 25
+      },
+      "consumedUnits": 25
+    },
+    {
+      "skuId": "O365_BUSINESS_PREMIUM",
+      "skuPartNumber": "O365_BUSINESS_PREMIUM",
+      "prepaidUnits": {
+        "enabled": 20
+      },
+      "consumedUnits": 18
+    },
+    {
+      "skuId": "POWER_BI_PRO",
+      "skuPartNumber": "POWER_BI_PRO",
+      "prepaidUnits": {
+        "enabled": 30
+      },
+      "consumedUnits": 22
+    }
+  ],
+  "users": [
+    {
+      "id": "Uma Active0",
+      "displayName": "Uma Active0",
+      "userPrincipalName": "uma.active0@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-03-29T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-26T17:14:09Z"
+      }
+    },
+    {
+      "id": "Ivy Active1",
+      "displayName": "Ivy Active1",
+      "userPrincipalName": "ivy.active1@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-12-06T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-23T17:14:09Z"
+      }
+    },
+    {
+      "id": "Xan Active2",
+      "displayName": "Xan Active2",
+      "userPrincipalName": "xan.active2@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-03-30T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-16T17:14:09Z"
+      }
+    },
+    {
+      "id": "Rui Active3",
+      "displayName": "Rui Active3",
+      "userPrincipalName": "rui.active3@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-02-19T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-17T17:14:09Z"
+      }
+    },
+    {
+      "id": "Ben Active4",
+      "displayName": "Ben Active4",
+      "userPrincipalName": "ben.active4@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-09-16T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-25T17:14:09Z"
+      }
+    },
+    {
+      "id": "Hugo Active5",
+      "displayName": "Hugo Active5",
+      "userPrincipalName": "hugo.active5@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-10-06T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-18T17:14:09Z"
+      }
+    },
+    {
+      "id": "Wes Active6",
+      "displayName": "Wes Active6",
+      "userPrincipalName": "wes.active6@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-01-23T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "O365_BUSINESS_PREMIUM"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-23T17:14:09Z"
+      }
+    },
+    {
+      "id": "Sam Active7",
+      "displayName": "Sam Active7",
+      "userPrincipalName": "sam.active7@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-03-11T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPB"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-26T17:14:09Z"
+      }
+    },
+    {
+      "id": "Zoe Active8",
+      "displayName": "Zoe Active8",
+      "userPrincipalName": "zoe.active8@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-05-14T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-20T17:14:09Z"
+      }
+    },
+    {
+      "id": "Ivy Active9",
+      "displayName": "Ivy Active9",
+      "userPrincipalName": "ivy.active9@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-03-07T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-23T17:14:09Z"
+      }
+    },
+    {
+      "id": "Kai Active10",
+      "displayName": "Kai Active10",
+      "userPrincipalName": "kai.active10@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-04-03T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-25T17:14:09Z"
+      }
+    },
+    {
+      "id": "Dana Active11",
+      "displayName": "Dana Active11",
+      "userPrincipalName": "dana.active11@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-08-17T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPB"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-21T17:14:09Z"
+      }
+    },
+    {
+      "id": "Ivy Active12",
+      "displayName": "Ivy Active12",
+      "userPrincipalName": "ivy.active12@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-10-25T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-19T17:14:09Z"
+      }
+    },
+    {
+      "id": "Dana Active13",
+      "displayName": "Dana Active13",
+      "userPrincipalName": "dana.active13@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-10-09T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "O365_BUSINESS_PREMIUM"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-25T17:14:09Z"
+      }
+    },
+    {
+      "id": "Jon Active14",
+      "displayName": "Jon Active14",
+      "userPrincipalName": "jon.active14@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-10-13T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPB"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-17T17:14:09Z"
+      }
+    },
+    {
+      "id": "Wes Active15",
+      "displayName": "Wes Active15",
+      "userPrincipalName": "wes.active15@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-06-19T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-26T17:14:09Z"
+      }
+    },
+    {
+      "id": "Hugo Active16",
+      "displayName": "Hugo Active16",
+      "userPrincipalName": "hugo.active16@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-09-01T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPB"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-25T17:14:09Z"
+      }
+    },
+    {
+      "id": "Dana Active17",
+      "displayName": "Dana Active17",
+      "userPrincipalName": "dana.active17@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-01-18T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "O365_BUSINESS_PREMIUM"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-22T17:14:09Z"
+      }
+    },
+    {
+      "id": "Uma Active18",
+      "displayName": "Uma Active18",
+      "userPrincipalName": "uma.active18@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-04-13T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPB"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-24T17:14:09Z"
+      }
+    },
+    {
+      "id": "Lia Active19",
+      "displayName": "Lia Active19",
+      "userPrincipalName": "lia.active19@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-07-28T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-16T17:14:09Z"
+      }
+    },
+    {
+      "id": "Wes Active20",
+      "displayName": "Wes Active20",
+      "userPrincipalName": "wes.active20@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-07-16T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-17T17:14:09Z"
+      }
+    },
+    {
+      "id": "Finn Active21",
+      "displayName": "Finn Active21",
+      "userPrincipalName": "finn.active21@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-01-09T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-24T17:14:09Z"
+      }
+    },
+    {
+      "id": "Max Active22",
+      "displayName": "Max Active22",
+      "userPrincipalName": "max.active22@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-05-23T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPB"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-16T17:14:09Z"
+      }
+    },
+    {
+      "id": "Rui Active23",
+      "displayName": "Rui Active23",
+      "userPrincipalName": "rui.active23@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-05-30T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-16T17:14:09Z"
+      }
+    },
+    {
+      "id": "Yas Active24",
+      "displayName": "Yas Active24",
+      "userPrincipalName": "yas.active24@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2026-03-26T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-23T17:14:09Z"
+      }
+    },
+    {
+      "id": "Zoe Active25",
+      "displayName": "Zoe Active25",
+      "userPrincipalName": "zoe.active25@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-07-27T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPB"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-20T17:14:09Z"
+      }
+    },
+    {
+      "id": "Cal Active26",
+      "displayName": "Cal Active26",
+      "userPrincipalName": "cal.active26@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-04-22T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-17T17:14:09Z"
+      }
+    },
+    {
+      "id": "Kai Active27",
+      "displayName": "Kai Active27",
+      "userPrincipalName": "kai.active27@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-12-02T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-16T17:14:09Z"
+      }
+    },
+    {
+      "id": "Max Active28",
+      "displayName": "Max Active28",
+      "userPrincipalName": "max.active28@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-07-30T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "O365_BUSINESS_PREMIUM"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-24T17:14:09Z"
+      }
+    },
+    {
+      "id": "Eve Active29",
+      "displayName": "Eve Active29",
+      "userPrincipalName": "eve.active29@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-10-23T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-18T17:14:09Z"
+      }
+    },
+    {
+      "id": "Ivy Active30",
+      "displayName": "Ivy Active30",
+      "userPrincipalName": "ivy.active30@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-03-15T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "O365_BUSINESS_PREMIUM"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-17T17:14:09Z"
+      }
+    },
+    {
+      "id": "Lia Active31",
+      "displayName": "Lia Active31",
+      "userPrincipalName": "lia.active31@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-11-22T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-24T17:14:09Z"
+      }
+    },
+    {
+      "id": "Pia Active32",
+      "displayName": "Pia Active32",
+      "userPrincipalName": "pia.active32@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2026-01-05T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-26T17:14:09Z"
+      }
+    },
+    {
+      "id": "Eve Active33",
+      "displayName": "Eve Active33",
+      "userPrincipalName": "eve.active33@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-02-19T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-16T17:14:09Z"
+      }
+    },
+    {
+      "id": "Tia Active34",
+      "displayName": "Tia Active34",
+      "userPrincipalName": "tia.active34@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-04-02T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-20T17:14:09Z"
+      }
+    },
+    {
+      "id": "Tia Active35",
+      "displayName": "Tia Active35",
+      "userPrincipalName": "tia.active35@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-08-13T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "O365_BUSINESS_PREMIUM"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-18T17:14:09Z"
+      }
+    },
+    {
+      "id": "Rui Active36",
+      "displayName": "Rui Active36",
+      "userPrincipalName": "rui.active36@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-04-19T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-16T17:14:09Z"
+      }
+    },
+    {
+      "id": "Dana Active37",
+      "displayName": "Dana Active37",
+      "userPrincipalName": "dana.active37@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-05-14T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPB"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-16T17:14:09Z"
+      }
+    },
+    {
+      "id": "Dana Active38",
+      "displayName": "Dana Active38",
+      "userPrincipalName": "dana.active38@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-11-17T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPB"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-20T17:14:09Z"
+      }
+    },
+    {
+      "id": "Omar Active39",
+      "displayName": "Omar Active39",
+      "userPrincipalName": "omar.active39@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-12-01T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-22T17:14:09Z"
+      }
+    },
+    {
+      "id": "Yas Active40",
+      "displayName": "Yas Active40",
+      "userPrincipalName": "yas.active40@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2026-01-09T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-18T17:14:09Z"
+      }
+    },
+    {
+      "id": "Uma Active41",
+      "displayName": "Uma Active41",
+      "userPrincipalName": "uma.active41@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-11-24T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPB"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-16T17:14:09Z"
+      }
+    },
+    {
+      "id": "Tia Active42",
+      "displayName": "Tia Active42",
+      "userPrincipalName": "tia.active42@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-04-10T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-24T17:14:09Z"
+      }
+    },
+    {
+      "id": "Yas Active43",
+      "displayName": "Yas Active43",
+      "userPrincipalName": "yas.active43@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-02-20T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-18T17:14:09Z"
+      }
+    },
+    {
+      "id": "Quin Active44",
+      "displayName": "Quin Active44",
+      "userPrincipalName": "quin.active44@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-05-31T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-17T17:14:09Z"
+      }
+    },
+    {
+      "id": "Pia Active45",
+      "displayName": "Pia Active45",
+      "userPrincipalName": "pia.active45@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-04-21T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-25T17:14:09Z"
+      }
+    },
+    {
+      "id": "Zoe Active46",
+      "displayName": "Zoe Active46",
+      "userPrincipalName": "zoe.active46@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2026-02-27T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPB"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-23T17:14:09Z"
+      }
+    },
+    {
+      "id": "Hugo Active47",
+      "displayName": "Hugo Active47",
+      "userPrincipalName": "hugo.active47@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-04-08T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-25T17:14:09Z"
+      }
+    },
+    {
+      "id": "Pia Active48",
+      "displayName": "Pia Active48",
+      "userPrincipalName": "pia.active48@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-03-04T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-18T17:14:09Z"
+      }
+    },
+    {
+      "id": "Eve Active49",
+      "displayName": "Eve Active49",
+      "userPrincipalName": "eve.active49@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-12-27T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-16T17:14:09Z"
+      }
+    },
+    {
+      "id": "Rui Active50",
+      "displayName": "Rui Active50",
+      "userPrincipalName": "rui.active50@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-11-03T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-22T17:14:09Z"
+      }
+    },
+    {
+      "id": "Tia Active51",
+      "displayName": "Tia Active51",
+      "userPrincipalName": "tia.active51@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-10-22T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "O365_BUSINESS_PREMIUM"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-23T17:14:09Z"
+      }
+    },
+    {
+      "id": "Yas Active52",
+      "displayName": "Yas Active52",
+      "userPrincipalName": "yas.active52@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-03-15T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-22T17:14:09Z"
+      }
+    },
+    {
+      "id": "Vik Active53",
+      "displayName": "Vik Active53",
+      "userPrincipalName": "vik.active53@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-11-14T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPB"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-19T17:14:09Z"
+      }
+    },
+    {
+      "id": "Omar Active54",
+      "displayName": "Omar Active54",
+      "userPrincipalName": "omar.active54@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-09-09T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-23T17:14:09Z"
+      }
+    },
+    {
+      "id": "Cal Active55",
+      "displayName": "Cal Active55",
+      "userPrincipalName": "cal.active55@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-09-02T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPB"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-26T17:14:09Z"
+      }
+    },
+    {
+      "id": "Rui Active56",
+      "displayName": "Rui Active56",
+      "userPrincipalName": "rui.active56@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-09-14T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-17T17:14:09Z"
+      }
+    },
+    {
+      "id": "Ada Active57",
+      "displayName": "Ada Active57",
+      "userPrincipalName": "ada.active57@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2026-02-26T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-16T17:14:09Z"
+      }
+    },
+    {
+      "id": "Hugo Active58",
+      "displayName": "Hugo Active58",
+      "userPrincipalName": "hugo.active58@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-05-24T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-26T17:14:09Z"
+      }
+    },
+    {
+      "id": "Cal Active59",
+      "displayName": "Cal Active59",
+      "userPrincipalName": "cal.active59@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-06-11T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-22T17:14:09Z"
+      }
+    },
+    {
+      "id": "Pia Active60",
+      "displayName": "Pia Active60",
+      "userPrincipalName": "pia.active60@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-12-13T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-18T17:14:09Z"
+      }
+    },
+    {
+      "id": "Xan Active61",
+      "displayName": "Xan Active61",
+      "userPrincipalName": "xan.active61@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-02-14T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "O365_BUSINESS_PREMIUM"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-23T17:14:09Z"
+      }
+    },
+    {
+      "id": "Pia Active62",
+      "displayName": "Pia Active62",
+      "userPrincipalName": "pia.active62@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2026-01-21T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "O365_BUSINESS_PREMIUM"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-23T17:14:09Z"
+      }
+    },
+    {
+      "id": "Dana Active63",
+      "displayName": "Dana Active63",
+      "userPrincipalName": "dana.active63@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-02-18T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "O365_BUSINESS_PREMIUM"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-21T17:14:09Z"
+      }
+    },
+    {
+      "id": "Nina Active64",
+      "displayName": "Nina Active64",
+      "userPrincipalName": "nina.active64@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2024-06-07T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "O365_BUSINESS_PREMIUM"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-26T17:14:09Z"
+      }
+    },
+    {
+      "id": "Uma Active65",
+      "displayName": "Uma Active65",
+      "userPrincipalName": "uma.active65@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-03-11T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-26T17:14:09Z"
+      }
+    },
+    {
+      "id": "Xan Active66",
+      "displayName": "Xan Active66",
+      "userPrincipalName": "xan.active66@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-08-16T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPB"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-25T17:14:09Z"
+      }
+    },
+    {
+      "id": "Gia Active67",
+      "displayName": "Gia Active67",
+      "userPrincipalName": "gia.active67@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-01-23T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-18T17:14:09Z"
+      }
+    },
+    {
+      "id": "Eve Active68",
+      "displayName": "Eve Active68",
+      "userPrincipalName": "eve.active68@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-07-16T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "O365_BUSINESS_PREMIUM"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-24T17:14:09Z"
+      }
+    },
+    {
+      "id": "Omar Active69",
+      "displayName": "Omar Active69",
+      "userPrincipalName": "omar.active69@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-01-29T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-25T17:14:09Z"
+      }
+    },
+    {
+      "id": "Disabled User0",
+      "displayName": "Disabled User0",
+      "userPrincipalName": "disabled.user0@northwind.com",
+      "accountEnabled": false,
+      "createdDateTime": "2024-07-26T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-05-05T17:14:09Z"
+      }
+    },
+    {
+      "id": "Disabled User1",
+      "displayName": "Disabled User1",
+      "userPrincipalName": "disabled.user1@northwind.com",
+      "accountEnabled": false,
+      "createdDateTime": "2024-07-26T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-04-24T17:14:09Z"
+      }
+    },
+    {
+      "id": "Disabled User2",
+      "displayName": "Disabled User2",
+      "userPrincipalName": "disabled.user2@northwind.com",
+      "accountEnabled": false,
+      "createdDateTime": "2024-07-26T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-04-05T17:14:09Z"
+      }
+    },
+    {
+      "id": "Disabled User3",
+      "displayName": "Disabled User3",
+      "userPrincipalName": "disabled.user3@northwind.com",
+      "accountEnabled": false,
+      "createdDateTime": "2024-07-26T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-01-13T17:14:09Z"
+      }
+    },
+    {
+      "id": "Disabled User4",
+      "displayName": "Disabled User4",
+      "userPrincipalName": "disabled.user4@northwind.com",
+      "accountEnabled": false,
+      "createdDateTime": "2024-07-26T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-03-24T17:14:09Z"
+      }
+    },
+    {
+      "id": "NeverLoggedIn0",
+      "displayName": "NeverLoggedIn0",
+      "userPrincipalName": "neverloggedin0@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2026-03-28T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "O365_BUSINESS_PREMIUM"
+        }
+      ],
+      "signInActivity": null
+    },
+    {
+      "id": "NeverLoggedIn1",
+      "displayName": "NeverLoggedIn1",
+      "userPrincipalName": "neverloggedin1@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-10-15T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": null
+    },
+    {
+      "id": "NeverLoggedIn2",
+      "displayName": "NeverLoggedIn2",
+      "userPrincipalName": "neverloggedin2@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-10-10T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": null
+    },
+    {
+      "id": "NeverLoggedIn3",
+      "displayName": "NeverLoggedIn3",
+      "userPrincipalName": "neverloggedin3@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-09-07T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "O365_BUSINESS_PREMIUM"
+        }
+      ],
+      "signInActivity": null
+    },
+    {
+      "id": "NeverLoggedIn4",
+      "displayName": "NeverLoggedIn4",
+      "userPrincipalName": "neverloggedin4@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-09-23T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "O365_BUSINESS_PREMIUM"
+        }
+      ],
+      "signInActivity": null
+    },
+    {
+      "id": "NeverLoggedIn5",
+      "displayName": "NeverLoggedIn5",
+      "userPrincipalName": "neverloggedin5@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2026-02-07T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "O365_BUSINESS_PREMIUM"
+        }
+      ],
+      "signInActivity": null
+    },
+    {
+      "id": "BrandNew0",
+      "displayName": "BrandNew0",
+      "userPrincipalName": "brandnew0@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2026-06-23T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": null
+    },
+    {
+      "id": "BrandNew1",
+      "displayName": "BrandNew1",
+      "userPrincipalName": "brandnew1@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2026-06-23T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": null
+    },
+    {
+      "id": "BrandNew2",
+      "displayName": "BrandNew2",
+      "userPrincipalName": "brandnew2@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2026-06-23T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        }
+      ],
+      "signInActivity": null
+    },
+    {
+      "id": "Inactive0",
+      "displayName": "Inactive0",
+      "userPrincipalName": "inactive0@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-02-11T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2025-12-12T17:14:09Z"
+      }
+    },
+    {
+      "id": "Inactive1",
+      "displayName": "Inactive1",
+      "userPrincipalName": "inactive1@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-02-11T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-04-13T17:14:09Z"
+      }
+    },
+    {
+      "id": "Inactive2",
+      "displayName": "Inactive2",
+      "userPrincipalName": "inactive2@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-02-11T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPB"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-04-11T17:14:09Z"
+      }
+    },
+    {
+      "id": "Inactive3",
+      "displayName": "Inactive3",
+      "userPrincipalName": "inactive3@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-02-11T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPB"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2025-12-03T17:14:09Z"
+      }
+    },
+    {
+      "id": "Inactive4",
+      "displayName": "Inactive4",
+      "userPrincipalName": "inactive4@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-02-11T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-04-17T17:14:09Z"
+      }
+    },
+    {
+      "id": "Inactive5",
+      "displayName": "Inactive5",
+      "userPrincipalName": "inactive5@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-02-11T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPB"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2025-09-10T17:14:09Z"
+      }
+    },
+    {
+      "id": "Inactive6",
+      "displayName": "Inactive6",
+      "userPrincipalName": "inactive6@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-02-11T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPB"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-02-21T17:14:09Z"
+      }
+    },
+    {
+      "id": "Inactive7",
+      "displayName": "Inactive7",
+      "userPrincipalName": "inactive7@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-02-11T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-04-01T17:14:09Z"
+      }
+    },
+    {
+      "id": "Inactive8",
+      "displayName": "Inactive8",
+      "userPrincipalName": "inactive8@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-02-11T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-04-07T17:14:09Z"
+      }
+    },
+    {
+      "id": "Inactive9",
+      "displayName": "Inactive9",
+      "userPrincipalName": "inactive9@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-02-11T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPB"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-04-08T17:14:09Z"
+      }
+    },
+    {
+      "id": "Overlap0",
+      "displayName": "Overlap0",
+      "userPrincipalName": "overlap0@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-05-22T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        },
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-16T17:14:09Z"
+      }
+    },
+    {
+      "id": "Overlap1",
+      "displayName": "Overlap1",
+      "userPrincipalName": "overlap1@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-05-22T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        },
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-23T17:14:09Z"
+      }
+    },
+    {
+      "id": "Overlap2",
+      "displayName": "Overlap2",
+      "userPrincipalName": "overlap2@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-05-22T17:14:09Z",
+      "assignedLicenses": [
+        {
+          "skuId": "SPE_E3"
+        },
+        {
+          "skuId": "SPE_E5"
+        }
+      ],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-20T17:14:09Z"
+      }
+    },
+    {
+      "id": "Unlicensed0",
+      "displayName": "Unlicensed0",
+      "userPrincipalName": "unlicensed0@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-08-30T17:14:09Z",
+      "assignedLicenses": [],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-25T17:14:09Z"
+      }
+    },
+    {
+      "id": "Unlicensed1",
+      "displayName": "Unlicensed1",
+      "userPrincipalName": "unlicensed1@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-08-30T17:14:09Z",
+      "assignedLicenses": [],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-17T17:14:09Z"
+      }
+    },
+    {
+      "id": "Unlicensed2",
+      "displayName": "Unlicensed2",
+      "userPrincipalName": "unlicensed2@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-08-30T17:14:09Z",
+      "assignedLicenses": [],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-23T17:14:09Z"
+      }
+    },
+    {
+      "id": "Unlicensed3",
+      "displayName": "Unlicensed3",
+      "userPrincipalName": "unlicensed3@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-08-30T17:14:09Z",
+      "assignedLicenses": [],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-17T17:14:09Z"
+      }
+    },
+    {
+      "id": "Unlicensed4",
+      "displayName": "Unlicensed4",
+      "userPrincipalName": "unlicensed4@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-08-30T17:14:09Z",
+      "assignedLicenses": [],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-17T17:14:09Z"
+      }
+    },
+    {
+      "id": "Unlicensed5",
+      "displayName": "Unlicensed5",
+      "userPrincipalName": "unlicensed5@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-08-30T17:14:09Z",
+      "assignedLicenses": [],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-26T17:14:09Z"
+      }
+    },
+    {
+      "id": "Unlicensed6",
+      "displayName": "Unlicensed6",
+      "userPrincipalName": "unlicensed6@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-08-30T17:14:09Z",
+      "assignedLicenses": [],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-17T17:14:09Z"
+      }
+    },
+    {
+      "id": "Unlicensed7",
+      "displayName": "Unlicensed7",
+      "userPrincipalName": "unlicensed7@northwind.com",
+      "accountEnabled": true,
+      "createdDateTime": "2025-08-30T17:14:09Z",
+      "assignedLicenses": [],
+      "signInActivity": {
+        "lastSignInDateTime": "2026-06-25T17:14:09Z"
+      }
+    }
+  ]
+}
